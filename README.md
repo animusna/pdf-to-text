@@ -49,4 +49,4 @@ data
 |  |    |-mydoc-02.txt
 ```
 
-The utility for each PDF file will produce a text file and *n* image file where *n* is the number of the pages of the document.
+The utility will produce, for each PDF file, a text file and *n* image files where *n* is the number of the pages of the document.
