@@ -1,6 +1,6 @@
 # pdf-to-text
 **pdf-to-text** is an utility to extract text content from PDF files using [OCR](https://en.wikipedia.org/wiki/Optical_character_recognition) (**Optical Character Recognition**).
-This is utility use the package [**Tesseract OCR**](https://github.com/tesseract-ocr/tesseract) through the python library [**pytesseract**](https://pypi.org/project/pytesseract/). Also the utility uses the python library [**pdf2image**](https://pypi.org/project/pdf2image/) to extract images from pdf documents.
+This utility uses the package [**Tesseract OCR**](https://github.com/tesseract-ocr/tesseract) through the python library [**pytesseract**](https://pypi.org/project/pytesseract/). Also the utility uses the python library [**pdf2image**](https://pypi.org/project/pdf2image/) to extract images from pdf documents.
 
 ## Requirements
 On your workstation you must have installed:
